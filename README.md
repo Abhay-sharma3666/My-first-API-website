@@ -1,5 +1,5 @@
 hello
-our website workflow in 
+Our website workflow looks like this 
 look like this
 
 <figure>
